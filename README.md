@@ -28,6 +28,7 @@ National Statistics sources.
 - **Period:** [ADD DATE RANGE]
 
 ---
+<img width="1584" height="981" alt="image" src="https://github.com/user-attachments/assets/64753e24-b2c4-4ac6-b072-311fe17360d0" />
 
 ## Visualisations Included
 - Line chart — GDP trends over time
@@ -65,6 +66,14 @@ jupyter notebook LDS7004M_Data_Visualisation.ipynb
 - azure-storage-blob
 
 ---
+<img width="1383" height="590" alt="image" src="https://github.com/user-attachments/assets/6950eecb-b828-4a27-b49e-7f8754f76750" />
+<img width="959" height="767" alt="image" src="https://github.com/user-attachments/assets/6f04fd15-93a2-4345-addc-f5f8d1397596" />
+
+<img width="683" height="708" alt="image" src="https://github.com/user-attachments/assets/4ad2d2fa-20f8-40cf-a212-bbb8cd74813e" />
+<img width="1584" height="981" alt="image" src="https://github.com/user-attachments/assets/7e18d0ae-d120-4d75-84ab-9117184211e2" />
+
+<img width="1284" height="492" alt="image" src="https://github.com/user-attachments/assets/bf4a5ef0-d30f-41c8-a082-d4e2877c072e" />
+
 
 ## Student Details
 **Name:** Nareshkumar Shanmugathas
