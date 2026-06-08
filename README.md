@@ -1,7 +1,7 @@
 # LDS7004M Data Visualisation Portfolio
 ## Wealth, Health and Growth: A Visual Analysis of the World Bank WDI Dataset (1990–2022)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/LDS7004M-DataViz-WDI/blob/main/LDS7004M_Advanced_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NK008/LDS7004M-DataViz-WDI/blob/main/LDS7004M_Advanced_Notebook.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
